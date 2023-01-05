@@ -1,6 +1,8 @@
 ### Hi there, I'm Aleksandr Karpukhin
 
-### I'm a data analyst
+### My projects as a Data Analyst:
+
+https://github.com/AleksandrK86/practicum
 
 ### Languages and Tools:
 
