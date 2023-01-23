@@ -8,8 +8,6 @@ https://github.com/AleksandrK86/practicum
 
 * Python
 * SQL
-* PostgreSQL
-* MySQL
 * A/B Testing
 * Jupiter Notebook
 * Tableau
