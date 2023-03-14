@@ -1,10 +1,7 @@
 # Unicorn companies dashboard
-
-[Follow the link to the dashborad (Tableau Public)](https://public.tableau.com/app/profile/aleksandr.karpukhin/viz/UnicornCompanies_16785247502190/Dashboard1)
+Unicorn companies are private companies with valuation over $1B
 
 ## Task:
-
-Unicorn companies are private companies with valuation over $1B
 
 Create a dashboard on Tableau Public that can answer the following questions:
 
@@ -15,7 +12,10 @@ industry hubs?
 4. Which investor companies have invested the most in unicorn companies?)
 5. Other possible questions
 
-## Data description:
+## Result:
+[Follow the link to the dashborad (Tableau Public)](https://public.tableau.com/app/profile/aleksandr.karpukhin/viz/UnicornCompanies_16785247502190/Dashboard1)
+
+## Data source description:
 
 The data is current as of 01.01.2023 and includes:
 * the current valuation of each company;
