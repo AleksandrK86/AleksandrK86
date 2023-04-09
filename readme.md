@@ -2,6 +2,10 @@
 
 ### My projects as a Data Analyst:
 
+https://github.com/AleksandrK86/my_projects
+
+### My study projects at Yandex Practicum:
+
 https://github.com/AleksandrK86/practicum
 
 ### Languages and Tools:
