@@ -8,6 +8,10 @@ https://github.com/AleksandrK86/my_projects
 
 https://github.com/AleksandrK86/practicum
 
+### My study projects at Tinkoff:
+
+https://github.com/AleksandrK86/TF_projects
+
 ### Languages and Tools:
 
 * Python
@@ -15,7 +19,6 @@ https://github.com/AleksandrK86/practicum
 * A/B Testing
 * Jupiter Notebook
 * Tableau
-* PowerBI
 
 ### Connect with me: 
 
