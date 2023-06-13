@@ -16,6 +16,5 @@ https://github.com/AleksandrK86/TF_projects
 
 * Python
 * SQL
-* A/B Testing
-* Jupiter Notebook
 * Tableau
+* DataLens
