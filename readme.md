@@ -19,9 +19,3 @@ https://github.com/AleksandrK86/TF_projects
 * A/B Testing
 * Jupiter Notebook
 * Tableau
-
-### Connect with me: 
-
-<img align="left" alt="AleksandrK86 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-
-[LinkedIn](https://www.linkedin.com/in/aleksandr-karpukhin/)
